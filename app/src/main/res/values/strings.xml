@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Dehradun Tour Guide</string>
+    <string name="george">George Everest</string>
+    <string name="georged">The place is situated 5000 feet above sea level. A must visit place in Winters And Monsoon</string>
+    <string name="georgel">Hathipaon, Old Mussourie Road From Dehradun, Uttarakhand</string>
+    <string name="cloud">Cloud End</string>
+    <string name="cloudd">Every Tourist who visits Dehradun must watch sunset from this place. You can see the rain originating from below you.</string>
+    <string name="cloudl">Mussourie, Uttarakhand, Dehradun, India</string>
+    <string name="rishikesh">Rishikesh</string>
+    <string name="rishikeshd">A Holy Indian City, must go for Camping, River Rafting, Bungee Jumping Etc</string>
+    <string name="rishikeshl">Rishikesh, Near Dehradun</string>
+    <string name="hari">Haridwar</string>
+    <string name="harid">The city of Festivals, must visit during world\'s biggest gathering, Kumbh Mela</string>
+    <string name="haril">Haridwar, Uttarakhand</string>
+    <string name="lem">Lemon Tree Hotel</string>
+    <string name="leml">Pacific Mall, Rajpur Road, Dehradun</string>
+    <string name="ramada">Ramada Hotel</string>
+    <string name="ramadal">Chakrata Road, Dehradun</string>
+    <string name="guchu">Robber\'s Cave</string>
+    <string name="guchuu">Famous By the name of a robber who used to Rob rich people and donate to the poor</string>
+    <string name="fri">FRI</string>
+    <string name="frii">Only One in India, Forest Research Institute Of India is a place of attraction for nature lovers with amazing botanical gardens, trees and lakes</string>
+    <string name="fril">IMA Road, Dehradun</string>
+    <string name="guchul">Guchu Pani, Kimadi Road, Dehradun</string>
+    <string name="kim">Kimadi</string>
+    <string name="kimd">Want a break from the Rush life?, This is the place</string>
+    <string name="kiml">Kimadi, Dehradun</string>
+    <string name="pac">Pacific Mall</string>
+    <string name="pacl">Rajpur Road, Dehradun</string>
+    <string name="times">Times Square Mall</string>
+    <string name="timesl">Keval Vihar, Dehradun</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="nearby">Nearby</string>
+    <string name="hotels">Hotels</string>
+    <string name="malls">Malls</string>
+    <string name="sights">Sights</string>
+    <string name="cse225_project_assignment">Cse225 Project Assignment</string>
+    <string name="use_navigation_drawer_viewpager_and_page_indicators_dots_tabs">Use Navigation Drawer, ViewPager and page indicators(dots/tabs)</string>
+    <string name="by_nirmal_kunwar_roll_number_7">By- NiRMAL KUNWAR, Roll Number 7</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
